@@ -1,3 +1,50 @@
 body {
     font-family: 'Baloo Chettan 2', cursive;
 }
+
+section {
+    margin-bottom: 50px;
+}
+
+/* Navbar */
+
+
+
+/* Jumbotron */
+
+.ms_jumbo-content {
+    height: 300px;
+    text-align: center;
+}
+
+/* Portfolio */
+
+.ms_portfolio-content {
+    height: 250px;
+    
+    background-color: blue;
+}
+
+/* About */
+
+.ms_download-button {
+    color: white;
+    background-color: transparent;
+    border-color: white;
+}
+
+.ms_download-button:hover {
+    color: black;
+    border-color: black;
+}
+
+/* Contacts */
+
+
+
+
+/* Generic classes */
+
+.ms_wrapper {
+    background-color: rgb(39, 206, 178);
+}
